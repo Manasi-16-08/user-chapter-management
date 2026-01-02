@@ -12,7 +12,7 @@ app.use(bodyParser.json());
 app.use("/api/chapters", chapterRoutes);
 
 // MongoDB Connection URL (replace with your MongoDB Atlas URI)
-const mongoURI = "mongodb+srv://manasivtawade:manasi01@chapter-api-01.owh3b.mongodb.net/Chapters?retryWrites=true&w=majority&appName=Chapter-API-01";
+const mongoURI = "URI";
 
 mongoose
   .connect(mongoURI)
@@ -25,3 +25,4 @@ mongoose
   .catch((err) => {
     console.log("Database connection failed:", err);
   });
+
