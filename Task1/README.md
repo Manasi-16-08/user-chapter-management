@@ -1,4 +1,3 @@
-"# Task1" 
 # User Management and API Integration
 
 This project demonstrates how to use basic JavaScript and Axios for interacting with a REST API. It includes functionality for creating, updating, deleting, and fetching user data from an external API, specifically from [JSONPlaceholder](https://jsonplaceholder.typicode.com/).
@@ -92,6 +91,23 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 5. **File Structure**: Describes the project structure so users can easily navigate it.
 
 
+### Contributions
+
+-Contributions are welcome. To contribute:
+
+-Fork this repository.
+
+-Create a new feature branch.
+
+-Make your changes and commit them with clear messages.
+
+-Submit a Pull Request for review.
+
+### Author
+
+Manasi Tawade
+
+GitHub: https://github.com/Manasi-16-08
 
 
 
